@@ -78,13 +78,4 @@ And generates a 4-panel visual dashboard:
 
 ## Stress Test
 
-The script also applies known historical crisis scenarios to the current portfolio:
-
-| Scenario | Market Return |
-|----------|--------------|
-| COVID Crash (Feb-Mar 2020) | -34% |
-| Global Financial Crisis 2008 | -50% |
-| Dot-com Crash (2000-2002) | -49% |
-| Black Monday 1987 | -22% |
-| Flash Crash 2010 | -9% |
-| 2022 Rate Hike Correction | -25% |
+The script also applies known historical crisis scenarios to the portfolio.
