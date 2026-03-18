@@ -44,7 +44,7 @@ CVaR, also called **Expected Shortfall (ES)**, answers the question VaR ignores:
 
 $$CVaR_c = E[Loss \mid Loss > VaR_c]$$
 
-CVaR is considered a superior risk measure because it is **coherent** (in the mathematical sense defined by Artzner et al., 1999) and fully captures the behavior of the loss tail. Since 2016, the Basel III framework requires banks to use Expected Shortfall instead of VaR for internal capital calculations.
+CVaR is considered a superior risk measure because it is **coherent** and fully captures the behavior of the loss tail. Since 2016, the Basel III framework requires banks to use Expected Shortfall instead of VaR for internal capital calculations.
 
 ---
 
