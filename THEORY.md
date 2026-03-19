@@ -131,5 +131,3 @@ This is formalized by the **Kupiec test** (1995), a likelihood ratio test with h
 ## 7. Stress Testing
 
 VaR measures risk under **normal market conditions**. It is not designed to capture the severity of extreme, low-probability events. Stress testing complements VaR by directly applying the returns observed during **known historical crises** to the current portfolio.
-
-This approach, while not statistically sophisticated, is practically powerful and widely used by regulators. The European Banking Authority (EBA) and the Federal Reserve both require stress tests on financial institutions using scenarios derived from historical crises.
